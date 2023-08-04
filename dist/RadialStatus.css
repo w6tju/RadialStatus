@@ -186,9 +186,6 @@
   background: var(--rs-phone-color, var(--rs-online-color));
   z-index: 1;
 }
-#app-mount .wrapper-3Un6-K foreignObject[mask*=mobile] + rect {
-  stroke: var(--rs-phone-color, var(--rs-online-color));
-}
 #app-mount .avatarStack-3vfSFa {
   position: relative;
 }
